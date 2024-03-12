@@ -1,10 +1,10 @@
 # URL Shortener
 
-This project is a simple URL shortener tool built using Python, allowing users to generate shortened URLs for sharing.
+🔗 This project is a simple URL shortener tool built using Python, allowing users to generate shortened URLs for sharing.
 
 ## Overview
 
-The URL Shortener provides a convenient way to shorten long URLs into more manageable and shareable links. It helps save space and makes links easier to remember and distribute, especially on platforms with character limits such as Twitter.
+🚀 The URL Shortener provides a convenient way to shorten long URLs into more manageable and shareable links. It helps save space and makes links easier to remember and distribute, especially on platforms with character limits such as Twitter.
 
 ## Features
 
@@ -15,7 +15,7 @@ The URL Shortener provides a convenient way to shorten long URLs into more manag
 
 ## Installation
 
-To run this project locally, follow these steps:
+💻 To run this project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/Adityas266/URL-SHORTNER.git`
 2. Install dependencies: `pip install -r requirements.txt`
@@ -28,3 +28,6 @@ To run this project locally, follow these steps:
 2. Optionally, enter a custom alias for your shortened URL.
 3. Copy the shortened URL and share it as needed.
 
+## Images
+
+![image](https://github.com/Adityas266/URL-SHORTNER/assets/108875499/83e485bb-0417-4aaf-adc9-069a57699806)
